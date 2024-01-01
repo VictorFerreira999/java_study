@@ -27,6 +27,8 @@ public class LinkedListClasse {
             System.out.println(elemento);
         }
         
+        int indice = lista.indexOf("Elemento3");
+        System.out.println(indice);
         
 
     }
